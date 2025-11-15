@@ -1,5 +1,5 @@
- HTML ESTUDOS 
-(#NO_CSS - #NO_JS)
+<b>HTML ESTUDOS 
+(#NO_CSS - #NO_JS)</b>
 
 
 Arquivo index_v1.00
